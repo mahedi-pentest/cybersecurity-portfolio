@@ -1,6 +1,11 @@
-# cybersecurity-portfolio
+# Mahedi Hasan – Cyber Security Portfolio
 Certified Cyber Security professional with hands-on experience in Web Application Security, Vulnerability Assessment, and Ethical Hacking. I completed professional training from Arena Web Security and hold a Certified Ethical Hacker (CEH) background, with practical skills in identifying, exploiting and reporting real-world security vulnerabilities.
-# Md Mahedi Hasan – Cyber Security Portfolio
+#Certificate
+Certified Ethical Hacker
+<img width="559" height="397" alt="certificate ceh" src="https://github.com/user-attachments/assets/794fbd05-5a2e-43bd-8677-cc7ea9248312" />
+Academic Website Address: https://arenawebsecurity.net/
+
+
 
 ## Skills
 - Web Application Penetration Testing
