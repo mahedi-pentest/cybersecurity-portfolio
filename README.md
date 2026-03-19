@@ -1,7 +1,8 @@
 # Mahedi Hasan – Cyber Security Portfolio
 Certified Cyber Security professional with hands-on experience in Web Application Security, Vulnerability Assessment, and Ethical Hacking. I completed professional training from Arena Web Security and hold a Certified Ethical Hacker (CEH) background, with practical skills in identifying, exploiting and reporting real-world security vulnerabilities.
-#Certificate
-Certified Ethical Hacker
+## Certifications
+- CEH (Certified Ethical Hacker)
+- Arena Web Security (AWS)
 <img width="559" height="397" alt="certificate ceh" src="https://github.com/user-attachments/assets/794fbd05-5a2e-43bd-8677-cc7ea9248312" />
 Academic Website Address: https://arenawebsecurity.net/
 
@@ -13,13 +14,12 @@ Academic Website Address: https://arenawebsecurity.net/
 - SQL Injection Testing
 - XSS Testing
 - Nmap Scanning
-- Nuclei Scanner
+- Nikto Scanner
+- Acunetix Scanner
 - Burp Suite
 - SQLMap
 
-## Certifications
-- CEH (Certified Ethical Hacker)
-- Arena Web Security (AWS)
+
 
 ## Sample Work
 
