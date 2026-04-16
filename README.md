@@ -25,7 +25,7 @@ Academic Website Address: https://arenawebsecurity.net/
 ## Sample Work
 
 ### 1. Website Vulnerability Scan
-Tools: Nmap, Acuentix, Nikto
+Tools: Nmap, Acuentix, Nikto,Burpsuite
 - Found: 3 medium vulnerabilities
 - Fixed: Server misconfiguration
 
