@@ -11,14 +11,21 @@ Academic Website Address: https://arenawebsecurity.net/
 
 ## Skills
 - Web Application Penetration Testing
+- Kali Linux
+- website-reconnaissance tools
 - Vulnerability Assessment
 - SQL Injection Testing
 - XSS Testing
 - Nmap Scanning
 - Nikto Scanner
 - Acunetix Scanner
+- Wpscan
 - Burp Suite
 - SQLMap
+- Hydra
+- john-the-ripper
+
+  
 
 
 
